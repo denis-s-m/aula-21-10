@@ -5,13 +5,13 @@
     background: #f2f2f2;
 }
 
-.header_div, .header_div_ul{
+.header__div, .header__div__ul{
     width: 100%;
     height: 60px;
     background: white;
 }
 
-.navli{
+.nav__li{
     display: inline-block;
     background: white;
     width: 300px;
@@ -20,7 +20,7 @@
     margin: 11px 13px 1px 21px;
 }
 
-.navli:hover{
+.nav__li:hover{
     border: 1px solid #999999;
     display: inline-block;
     background: white;
@@ -30,7 +30,7 @@
     margin: 10px 12px 0px 20px;
 }
 
-.lia{
+.li__a{
     color: black;
     background: white;
     display: inline-table;
@@ -39,7 +39,7 @@
 
 }
 
-.headerelevate{
+.headerel__evate{
     margin: 0px auto;
     width: 70%;
     height: 300px;
@@ -47,7 +47,7 @@
     margin-top: 30px;
 }
 
-.elevate_global{
+.elevate__global{
     background: white;
     text-align: center;
     font-weight: lighter;
@@ -58,5 +58,4 @@
     margin: 10px auto;
     border: 1px solid black;
     width: 90%;
-
 }
